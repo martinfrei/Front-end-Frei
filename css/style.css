@@ -1,0 +1,35 @@
+/*Header*/
+header {
+    background-color: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    height: 189px;
+}
+
+/*BODY*/
+h1,dt{
+    font-weight: bold;
+    background-color: #C4C4C4;
+    ;
+    color: #005677;
+    font-family: 'Times New Roman';
+
+}
+h4{
+text-align:center;
+    background-color: #005677;
+    
+    color: #FFFFFF;
+
+}
+.negrita {
+    font-weight: bold;
+}
+#batman{
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
