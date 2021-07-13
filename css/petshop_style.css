@@ -1,0 +1,13 @@
+.contenedor{
+    display: flex;    
+    justify-content: space-around;
+}
+article p{
+    text-align:center;
+}
+article h3{
+    text-align: center;
+}
+.contacto{
+    text-align: center;
+}
